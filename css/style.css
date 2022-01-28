@@ -1,0 +1,41 @@
+.navbar {
+	background-color: #D5D8DC;
+}
+.homme {
+	background-color: #AEB6BF;
+}
+.margin {
+	padding-top: 10px;
+}
+ .form-control {
+ 	width: 30%;
+ 	margin-left: 35%;
+ }
+.btn {
+	margin-top: 10px;
+	text-align: center;
+	margin-bottom: 20px;
+}
+.links {
+	margin-left: 05px;
+}
+.links1 {
+	margin-left: 15px;
+}
+.links2 {
+	margin-left: 15px;
+}
+.btn {
+	color: white;
+	background-color: #186A3B;
+	text-decoration: none;
+	font-family: sans-serif;
+}
+a:hover{
+	text-decoration: none;
+	color: white;
+}
+a:link {
+ text-decoration: none;
+ color: white;
+}
